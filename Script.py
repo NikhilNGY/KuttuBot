@@ -1,36 +1,26 @@
 class script(object):
-    START_TXT = """👋🏻 Hᴇʟʟᴏ {}.
-𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌. 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇.
-𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖧𝖾𝗅𝗉 𝖻𝗎𝗍𝗍𝗈𝗇 𝖿𝗈𝗋 𝖬𝗈𝗋𝖾...
-
-©️ Maintained By @im_goutham_josh"""
-    HELP_TXT = """
-    🙋🏻‍♂️   Hellooo  {} 🤓
-
-○ Available Commands
-     
- /start - Check I'm Alive..
- /status - Bot Status
- /info - User info 
- /id - User id
- /stats - Db status  
- /broadcast - Broadcast (owner only)
-
-○ Notice 📙:-
-
-○ Dont Spam Me...🙂
+    START_TXT = """𝗛𝗲𝗹𝗹𝗼 {}, 𝗠𝘆𝗡𝗮𝗺𝗲 𝗶𝘀 Rᴀꜱʜᴍɪᴋᴀ Mᴀɴᴅᴀɴɴᴀ 
+ 
+𝗜 𝗮𝗺 𝗮𝗻 𝗔𝘂𝘁𝗼𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗳𝗼𝗿 𝗧𝗲𝗮𝗺 @KR_PICTURE ™🎥 
+ 
+𝗝𝗼𝗶𝗻 𝗠𝘆 𝗚𝗿𝗼𝘂𝗽 & 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗳𝗼𝗿 𝗠𝗼𝗿𝗲 𝗗𝗲𝘁𝗮𝗶𝗹𝘀."""
+    HELP_TXT = """𝙷𝙴𝚈 {}
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
 """
-    ABOUT_TXT = """<b>◎ Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/wudixh13>Goutham SER</a>
-◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
-◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
-◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
+    ABOUT_TXT = """<b>
+○ 𝗠𝘆 𝗡𝗮𝗺𝗲 : 𝙲𝚒𝚗𝚎𝚖𝚊 𝚕𝚘𝚔𝚑𝚊𝚖
+○ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : <a href=https://t.me/Nikhil5757h>Dictator</a>
+○ 𝗟𝗶𝗯𝗿𝗮𝗿𝘆 : Pyrogram
+○ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : Python 3.10
+○ 𝗗𝗮𝘁𝗮𝗕𝗮𝘀𝗲 : Mongo 𝙳𝙱
+○ 𝗠𝘆 𝗦𝗲𝗿𝘃𝗲𝗿 : Koyeb
+○ 𝗕𝘂𝗶𝗹𝗱 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : V1.0 [ 𝙱𝙴𝚃𝙰 ]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴋᴜᴛᴛᴜ ʙᴏᴛ™ is a open source project. 
-- Source - <ahref=https://github.com/GouthamSER>Click Here😂</a>
+- RASHMIKA ʙᴏᴛ™ is a private project. 
+- Source - <ahref=https://t.me/KR_PICTURE>Click Here😂</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/wudixh1>Gᴏᴜᴛʜᴀᴍ Sᴇʀ🌈</a>"""
+- <a href=https://t.me/Nikhil5757h>Dictator</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -53,10 +43,22 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/sources_cods)</code>
+<code>[Button Text](buttonurl:https://t.me/KR_PICTURE)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
+    FORCESUBSCRIBE_TXT = """Help: <b>𝗙𝗼𝗿𝗰𝗲𝗦𝘂𝗯 𝗠𝗼𝗱</b>
+
+<b>𝗡𝗼𝘁𝗲:
+    𝗧𝗵𝗶𝘀 𝗺𝗼𝗱𝘂𝗹𝗲 𝗼𝗻𝗹𝘆 𝘄𝗼𝗿𝗸𝘀 𝗳𝗼𝗿 𝗺𝘆 𝗔𝗱𝗺𝗶𝗻𝘀</b>
+
+<b>𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝗮𝗻𝗱 𝗨𝘀𝗮𝗴𝗲:</b>
+
+• /fsub - Enable ForceSub / Request Sub Settings
+• /add_fsub - Add ForceSub / Request Sub Channel
+• /get_fsub - Get saved ForceSub Channel Detail
+• /ttreq - Get total request counts on current FSub Channel
+• /clreq - Clear Requests on current FSub Channel"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
@@ -116,17 +118,19 @@ Added By - {}
 """
     RESULT_TXT="""Eᴅᴀᴀ Mᴏɴᴇʜ I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ {}"""
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-FɪʟᴇSɪᴢᴇ : {file_size}
+    CUSTOM_FILE_CAPTION = """<b>{file_name}
 
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/wudixh> ᴇʟᴅᴏʀᴀᴅᴏ </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀 ⚡️
+𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 👇
+https://t.me/sandalwood_kannada_moviesz
+
+𝐑𝐞𝐪𝐮𝐞𝐬𝐭 𝐌𝐨𝐯𝐢𝐞𝐬 👇
+https://t.me/Sandalwood_Kannada_Group</b>"""
 
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ
-@im_goutham_josh</b>"""
+@Nikhil5757h</b>"""
     
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
@@ -163,9 +167,9 @@ Try reading the instruction below 👇🏼
     OLD_MES=""" Eᴅᴀᴀ Mᴏɴᴇʜ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬🤔, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧"""
     
     MOV_NT_FND="""<b>Eᴅᴀᴀ Mᴏɴᴇʜ Tʜɪs Mᴏᴠɪᴇ Is Nᴏᴛ Yᴇᴛ Rᴇᴀʟᴇsᴇᴅ Oʀ Aᴅᴅᴇᴅ Tᴏ DB</b>
-Report To ADMIN - @im_goutham_josh
+Report To ADMIN - @Nikhil5757h
 """
     DMCA_TXT = """<b><u>This Telegram bot is designed to operate within the guidelines of the Digital Millennium Copyright Act (DMCA) and respects intellectual property rights. We are committed to responding to any valid DMCA takedown notices promptly.</u></b>
 
-<blockquote>Please send your DMCA takedown notice to dmcarexie@proton.me</blockquote>
+<blockquote>Please send your DMCA takedown notice to @Nikhil5757h</blockquote>
 """
